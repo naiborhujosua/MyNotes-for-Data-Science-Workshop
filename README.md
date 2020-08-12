@@ -25,6 +25,7 @@ Tips for using jupyter notebook to accelerate workflow
 
 ## External Data Science needed 
 **numpy**,**pandas**,**seaborn**,**matplotlib**,**scikit-learn**,**request**, and **bokeh**.
-
+Data Science Lifecycle :
+![Data Science Lifecycle](https://github.com/naiborhujosua/Notes-for-Data-Science-Workshop/blob/master/data%20science%20process.jpg)
 Let's get our hand dirty!!
 
