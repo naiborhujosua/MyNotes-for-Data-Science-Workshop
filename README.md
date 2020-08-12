@@ -1,5 +1,4 @@
 # Notes-for-Data-Science-Workshop
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
 Being a self-taught **data scientist** Learner is quite challenging for being me .There is a lot of factors that we have to face in order to advance this field. That's why i would like to take a notes for every online learning that i will take on this platform. I hope i can reinforce my learning rate into the right skills that could be implemented in my new career as a Data Scientist. **Enjoy and Keep Learning**. Today's workshop is taken from one of the workshop from Packt called [Applied Data Science Workshop](https://courses.packtpub.com/collections?page=3). I hope we can learn together in order to dive deep into this field. 
