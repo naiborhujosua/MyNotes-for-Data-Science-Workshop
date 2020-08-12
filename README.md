@@ -21,3 +21,10 @@ Tips for using jupyter notebook to accelerate workflow
 * [x] b to add a cell below
 * [x] dd to delete a cell
 * [x] esc + y to change a cell to code
+
+
+## External Data Science needed 
+**numpy**,**pandas**,**seaborn**,**matplotlib**,**scikit-learn**,**request**, and **bokeh**.
+
+Let's get our hand dirty!!
+
