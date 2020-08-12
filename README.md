@@ -1,7 +1,7 @@
-# Notes-for-Data-Science-Workshop
+# Mynotes-for-Data-Science-Workshop
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
-Being a self-taught **data scientist** Learner is quite challenging for me .There is a lot of factors that we have to face in order to advance this field. That's why i would like to take a notes for every online learning that i will take on this platform. I hope i can reinforce my learning rate into the right skills that could be implemented in my new career as a Data Scientist. **Enjoy and Keep Learning**. Today's workshop is taken from one of the workshop from Packt called [Applied Data Science Workshop](https://courses.packtpub.com/collections?page=3). I hope we can learn together in order to dive deep into this field. 
+Being a self-taught **data scientist** is quite challenging for me .There is a lot of factors that we have to face in order to advance this field. That's why i would like to take a notes for every online learning that i will take on this platform. I hope i can reinforce my learning rate into the right skills that could be implemented in my new career as a Data Scientist. **Enjoy and Keep Learning**. Today's workshop is taken from one of the workshop from Packt called [Applied Data Science Workshop](https://courses.packtpub.com/collections?page=3). I hope we can learn together in order to dive deep into this field. 
 
 **Installing Python**
 Before exploring the data, we have to prepare for the tools that we will be using to get the insigt of our data. We will be installing python. The easiet way to install it by downloading [Anaconda](https://www.anaconda.com/). After installing the tools we can install some libraries that will help us do the anlysis of our data. in this case, we will use *pip* as package manager which is included in Anaconda through these command
@@ -14,3 +14,10 @@ The exercises and activities will be excuted in Jupyter Notebooks. It is a pytho
 - Clone [Applied Data Science Workshop](https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop)
 + cd The-Applied-Data-Science-Workshop in your terminal to access the data
 - run jupyter notebook to access the data in this workshop
+
+Tips for using jupyter notebook to accelerate workflow 
+* [x] Esc + m to change the cell into markdown
+* [x] a to add a cell above
+* [x] b to add a cell below
+* [x] dd to delete a cell
+* [x] esc + y to change a cell to code
