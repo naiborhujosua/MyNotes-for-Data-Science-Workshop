@@ -1,7 +1,4 @@
 # Notes-for-Data-Science-Workshop
-[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Applied-Data-Science-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop/issues)
-[![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Applied-Data-Science-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop/network)
-[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Applied-Data-Science-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Applied-Data-Science-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
