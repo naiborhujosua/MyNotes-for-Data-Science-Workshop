@@ -32,7 +32,7 @@ Data Science Lifecycle :
 Data Exploration with Jupyter
 ---
 
-1. [Boston Housing Dataset Analysis](#python)
+1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb)
 
 
 
