@@ -32,7 +32,7 @@ Data Science Lifecycle :
 Data Exploration with Jupyter
 ---
 
-1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb)
+1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb) I have been  learning about exploratory analysis in a jupyter notebook environment. I used vizualization such as scatter plots, histograms, and violin plots to deepen my understanding of the data, I also performed simple predictive modelling to consider the data for modelling. 
 
 
 
