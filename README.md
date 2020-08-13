@@ -3,7 +3,6 @@
 
 Being a self-taught **data scientist** is quite challenging for me .There is a lot of factors that we have to face in order to advance this field. That's why i would like to take notes for every online learning that i will take on this platform. I hope i can reinforce my learning rate into the right skills that could be implemented in my new career as a Data Scientist. Today's workshop is taken from one of the workshop from Packt called [Applied Data Science Workshop](https://courses.packtpub.com/collections?page=3). I hope we can learn together in order to dive deep into this field. 
 
-#Installing Python
 Before exploring the data, we have to prepare for the tools that we will be using to get the insights of our data. We will be installing python. The easiet way to install it by downloading [Anaconda](https://www.anaconda.com/). After installing the tools we can install some libraries that will help us do the anlysis of our data. in this case, we will use *pip* as package manager which is included in Anaconda through these command
 - pip install numpy
 + pip install -r requirement.txt
