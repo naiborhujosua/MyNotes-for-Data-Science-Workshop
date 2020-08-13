@@ -23,16 +23,14 @@ Tips for using jupyter notebook to accelerate workflow
 * [x] esc + y to change a cell to code
 
 
-## External Data Science needed 
-**numpy**,**pandas**,**seaborn**,**matplotlib**,**scikit-learn**,**request**, and **bokeh**.
-Data Science Lifecycle :
+## Data Science Lifecycle :
 ![Data Science Lifecycle](https://github.com/naiborhujosua/Notes-for-Data-Science-Workshop/blob/master/data%20science%20process.jpg)
 
 <br><br>
 Data Exploration with Jupyter
 ---
 
-1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb) I have been  learning about exploratory analysis in a jupyter notebook environment. I used vizualization such as scatter plots, histograms, and violin plots to deepen my understanding of the data, I also performed simple predictive modelling to consider the data for modelling. 
+1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb) I have been  learning about exploratory analysis in a jupyter notebook environment. I used vizualization such as scatter plots, histograms, and violin plots to deepen my understanding of the data, I also performed simple predictive modelling to consider the data for modelling. you can download the notebook to see the process.
 
 
 
