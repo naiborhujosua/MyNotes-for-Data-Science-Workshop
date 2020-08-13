@@ -30,8 +30,7 @@ Tips for using jupyter notebook to accelerate workflow
 Data Exploration with Jupyter
 ---
 
-1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb) I have been  learning about exploratory analysis in a jupyter notebook environment. I used vizualization such as scatter plots, histograms, and violin plots to deepen my understanding of the data, I also performed simple predictive modelling to consider the data for modelling. you can download the notebook to see the process.
-2. As I continue to learn and understand more, I will update this workshop for deeper contents.
+1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb) I have been  learning about exploratory analysis in a jupyter notebook environment. I used vizualization such as scatter plots, histograms, and violin plots to deepen my understanding of the data, I also performed simple predictive modelling to consider the data for modelling. you can download the notebook to see the process. As I continue to learn and understand more, I will update this workshop for deeper contents.
 
 
 
