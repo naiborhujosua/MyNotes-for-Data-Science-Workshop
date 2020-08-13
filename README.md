@@ -27,5 +27,12 @@ Tips for using jupyter notebook to accelerate workflow
 **numpy**,**pandas**,**seaborn**,**matplotlib**,**scikit-learn**,**request**, and **bokeh**.
 Data Science Lifecycle :
 ![Data Science Lifecycle](https://github.com/naiborhujosua/Notes-for-Data-Science-Workshop/blob/master/data%20science%20process.jpg)
-Let's get our hand dirty!!
+
+<br><br>
+Data Exploration with Jupyter
+---
+
+1. [Boston Housing Dataset Analysis](#python)
+
+
 
