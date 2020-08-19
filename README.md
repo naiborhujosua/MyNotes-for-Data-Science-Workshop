@@ -36,7 +36,7 @@ Data Exploration with Jupyter
 
 
 <br><br>
-Udemy Courses : Python For Data Science
+Udemy Courses : [Python For Data Science](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 ---
 
 1. [Linear Regression Project](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Linear%20Regression%20Project.ipynb) I have been  learning about implementing Linear Regression to decide whether i focus on leveraging to develop an app either in application or web. I also implement Machine Learning process from data acquisition, cleaning the data, splitting the data into test and training an using scikit learn to recognize some tendencies in improving the Eccomerce case on this dataset. 
