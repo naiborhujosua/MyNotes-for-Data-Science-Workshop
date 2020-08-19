@@ -32,11 +32,10 @@ Data Exploration with Jupyter
 1. [Boston Housing Dataset Analysis](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Boston%20Housing%20Dataset.ipynb) I have been  learning about exploratory analysis in a jupyter notebook environment. I used vizualization such as scatter plots, histograms, and violin plots to deepen my understanding of the data, I also performed simple predictive modelling to consider the data for modelling. you can download the notebook to see the process. As I continue to learn and understand more, I will update this workshop for deeper contents.
 2. [Training Classification Models](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Training%20Model%20Classifiers.ipynb) I have been  learning about cleaning the data before implmenting three essentials Classification algorithms such as Support Vector Machine, KNN, and Random Forest. i also implemented how to quantify the best score best on confusion matrix to ensure the best accuracy on these algorihms. It is also important to split the dataset and scale the features before implementing the classification models to get better insights. You can also see the exercise on implementing [SVMs algorithm](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Implementing%20SVM%20algorithms.ipynb) 
 2. [Model Validation and Optimization](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Model%20Validation%20and%20Optimization.ipynb) I have been  learning about performing parameter optimization and model selection. We built upon the work we did where we trainer predictive classification models for our bnary problems and saw how decision boundaries are drawn for SVM, KNN, and Random Forest models. We improved these simple models by using validation curve to optimize parameters and explored how dimensionality reduction can improve model performcane as well. 
-
-
-
-<br>
-Udemy Courses : [Python For Data Science](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)><br>
+---
+<br><br>
+Udemy Courses : [Python For Data Science](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+<br><br>
 Book Reference : [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
 ---
 
