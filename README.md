@@ -39,7 +39,9 @@ Book Reference : [An Introduction to Statistical Learning](https://github.com/na
 ---
 
 1. [Linear Regression Project](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Linear%20Regression%20Project.ipynb) I have been  learning about implementing Linear Regression to decide whether i focus on leveraging to develop an app either in application or web. I also implement Machine Learning process from data acquisition, cleaning the data, splitting the data into test and training an using scikit learn to recognize some tendencies in improving the Eccomerce case on this dataset. 
-1. [K Nearest Neighbors Project](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-K%20Nearest%20Neighbors%20Project.ipynb) I have been learning about implementing K Nearest Neighbors to understand how this algorithm works and the implementation using scikit-learn from features scalling, transforming the data, and  getting the accuracy of the dataset through the value of confusion matrix.
+2. [K Nearest Neighbors Project](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-K%20Nearest%20Neighbors%20Project.ipynb) I have been learning about implementing K Nearest Neighbors to understand how this algorithm works and the implementation using scikit-learn from features scalling, transforming the data, and  getting the accuracy of the dataset through the value of classification report.
+
+2. [Decision Tree and Random ForestProject](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Decision%20Trees%20and%20Random%20Forest%20Project.ipynb) I have been learning about implementing Decision Tree and Random Forest to understand how this algorithm works and the implementation using scikit-learn from features scalling, and  getting the accuracy of the dataset through the value of lassification report and compare these two algorithms.
 
 
 
