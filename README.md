@@ -33,6 +33,8 @@ Data Exploration with Jupyter
 2. [Model Validation and Optimization](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Model%20Validation%20and%20Optimization.ipynb) I have been  learning about performing parameter optimization and model selection. We built upon the work we did where we trainer predictive classification models for our bnary problems and saw how decision boundaries are drawn for SVM, KNN, and Random Forest models. We improved these simple models by using validation curve to optimize parameters and explored how dimensionality reduction can improve model performcane as well. 
 ---
 <br><br>
+
+![Choose the right Estimators](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/19578115-6C32-40A2-B01D-3D214873B801_1_105_c.jpeg)
 Udemy Courses : [Python For Data Science](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 <br><br>
 Book Reference : [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
