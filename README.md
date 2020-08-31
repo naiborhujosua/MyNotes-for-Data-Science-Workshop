@@ -3,10 +3,6 @@
 
 Being a self-taught **data scientist** is quite challenging for me .There are many factors that i have to face in order to advance this field. That's why i would like to take notes for every online courses that i will take in many platforms such as Coursera, Packt, Udacity and Datacamp. I hope i can reinforce my learning rate into the right skills that could be implemented in my new career as a Data Scientist. Today's workshop is taken from one of the workshop from Packt called [Applied Data Science Workshop](https://courses.packtpub.com/collections?page=3). I hope we can learn together in order to dive deep into this field. 
 
- As a Data Scientist, before exploring the data, we have to prepare the tools that we will be using to get the insights of our data. We will be installing python or R. The easiet way to install it by downloading [Anaconda](https://www.anaconda.com/). After installing the tools, we can install some libraries that will help us do the analysis of our data. in this case, we will use *pip* as package manager which is included in Anaconda through these command
-- pip install numpy
-+ pip install -r requirement.txt
-
 The exercises and activities will be excuted in Jupyter Notebooks. It is a python library that can be installed using pip install jupyter. Since it is included in our Anaconda, we do not need it. we can run jupyter notebook by running a command jupyter notebook through our terminal in MaC or command prompt in windows. 
 
 ## Download the Course in Github
