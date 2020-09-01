@@ -46,12 +46,3 @@ Book Reference : [An Introduction to Statistical Learning](https://github.com/na
 
 
 
-
-
-Coursera Courses : [Applied Machine Learning](https://www.coursera.org/specializations/data-science-python)
-<br><br>
-Book Reference : [An Introduction to Machine Learning ](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
-This course deep dive into Machine Learning  algorythm with the Jupyter Notebook in order to understand the concept.
-1. [Module 1](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/Module%2B1.ipynb)
-
-
