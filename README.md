@@ -33,7 +33,9 @@ Data Exploration with Jupyter
 ![Choose the right Estimators](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/19578115-6C32-40A2-B01D-3D214873B801_1_105_c.jpeg)
 Udemy Courses : [Python For Data Science](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 <br><br>
-Book Reference : [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
+Book Reference : 
+1. [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
+2. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
 ---
 
 1. [Linear Regression Implementation](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Linear%20Regression%20Project.ipynb) I have been  learning about implementing Linear Regression to decide whether i focus on leveraging to develop an app either in application or web. I also implement Machine Learning process from data acquisition, cleaning the data, splitting the data into test and training an using scikit learn to recognize some tendencies in improving the Eccomerce case on this dataset. 
