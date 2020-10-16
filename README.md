@@ -36,6 +36,7 @@ Udemy Courses : [Python For Data Science](https://www.udemy.com/course/python-fo
 Book Reference : 
 1. [An Introduction to Statistical Learning](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/ISLR%20Seventh%20Printing.pdf)
 2. [The Art of Statistics: How to Learn from Data](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513)
+3. [Hands on Machine Learning Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_1/147-4712361-4389719?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=906c9159-7e0b-414d-9c72-f1d0466f8f34&pd_rd_w=Xn0sn&pd_rd_wg=bzf5R&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=7MTE4J8VA4RKH0G1E7K3&psc=1&refRID=7MTE4J8VA4RKH0G1E7K3)
 ---
 
 1. [Linear Regression Implementation](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Linear%20Regression%20Project.ipynb) I have been  learning about implementing Linear Regression to decide whether i focus on leveraging to develop an app either in application or web. I also implement Machine Learning process from data acquisition, cleaning the data, splitting the data into test and training an using scikit learn to recognize some tendencies in improving the Eccomerce case on this dataset. 
