@@ -45,7 +45,7 @@ Book Reference :
 2. [Decision Tree and Random Forest Implementation](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Decision%20Trees%20and%20Random%20Forest%20Project.ipynb) I have been learning about implementing Decision Tree and Random Forest to understand how this algorithm works and the implementation using scikit-learn from features scalling, and  getting the accuracy of the dataset through the value of classification report and compare these two algorithms.
 
 3. [Support Vector Machine Implementation](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-Support%20Vector%20Machines%20Project.ipynb) I have been learning about implementing SVM and how this algorithm works to maximize the margin separating the cohort to get the best accuracy. 
-4. [K Means Clusters Implementation](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-K%20Means%20Clustering%20Project.ipynb) I have been learning about implemention of K Means Cluster as one of unspurvised learning algorithms to cluster datapoint based on similarity. This implementation try to make a cohort of university which is Private university and Public University. 
+4. [K Means Clusters Implementation](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/02-K%20Means%20Clustering%20Project.ipynb) I have been learning about implemention of K Means Cluster as one of unsupervised learning algorithms to cluster datapoint based on similarity. This implementation try to make a cohort of university which is Private university and Public University. 
 
 
 
