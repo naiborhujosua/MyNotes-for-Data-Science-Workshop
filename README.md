@@ -18,8 +18,7 @@ Tips for using jupyter notebook to accelerate workflow
 * [x] esc + y to change a cell to code
 
 
-## Data Science Lifecycle :
-![Data Science Lifecycle](https://github.com/naiborhujosua/Notes-for-Data-Science-Workshop/blob/master/data%20science%20process.jpg)
+![Data Science Lifecycle](https://github.com/naiborhujosua/MyNotes-for-Data-Science-Workshop/blob/master/datascienceprocess.jpeg)
 
 <br><br>
 Data Exploration with Jupyter
